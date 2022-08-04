@@ -2,3 +2,4 @@
 #Second Line of text has been added to the new branch, please check it out
 #Please verify your account settings and validate company request
 # Insurbordination will not be allowed whatsoever
+#Have added a new Image to the Index Page and the root Directory
