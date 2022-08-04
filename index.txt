@@ -1,5 +1,7 @@
 #Lorem ipsum chocolate Bar and accessories
-#Second Line of text has been modified for all pages of the contented site
-#Please verify your account signature settings and validate company request
 # Insurbordination will not be allowed whatsoever
 #Have added a new Image to the Index Page and the root Directory
+	Develop a customized API where store owners on shopify can link their external store with their store on shopify, such that when an order is placed on the 3rd party website, it can be received on the shopify store and once the order has been dispatched it should be posted to the 3rd party website.
+	Shopify Geofencing – To build an application that will be able to map out some specific area where, store owner can focus his sales base on based on some certain criterias.
+	Delivery Tracker – Delivery tracker will be a solution whereby shoppers can use to track the state and stage of their orders. The solution will provide a seamless support for shoppers who place an order on a shopify store to be able to track the goods they’ve purchased at real time.
+	Return Goods: Create a solution that enables shopify Users to automate cash and gift card refunds, exchanges, the automatic generation and printing of return labels, and the creation of automation rules to tailor the returns experience for customers, this solution will assist in the simplification of the returns process.
