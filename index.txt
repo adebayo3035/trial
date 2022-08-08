@@ -5,3 +5,8 @@
 	Shopify Geofencing – To build an application that will be able to map out some specific area where, store owner can focus his sales base on based on some certain criterias.
 	Delivery Tracker – Delivery tracker will be a solution whereby shoppers can use to track the state and stage of their orders. The solution will provide a seamless support for shoppers who place an order on a shopify store to be able to track the goods they’ve purchased at real time.
 	Return Goods: Create a solution that enables shopify Users to automate cash and gift card refunds, exchanges, the automatic generation and printing of return labels, and the creation of automation rules to tailor the returns experience for customers, this solution will assist in the simplification of the returns process.
+Implement a query to filter all users by name 'Bob'.
+Implement a LIKE query to filter the users for records with a name that includes the letter "b".
+Return only the first 5 records of the query above.
+Re-implement the LIKE query using case-insensitive search.
+Return the number of records of users with name 'Bob'.
